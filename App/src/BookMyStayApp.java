@@ -78,7 +78,7 @@ class SearchService {
 }
 
 // Main Class
-public class UseCase4RoomSearch {
+public class BookMyStayApp {
 
     public static void main(String[] args) {
 
